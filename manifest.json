@@ -1,0 +1,27 @@
+{
+  "name": "Mindore Gadget Repair",
+  "short_name": "Mindore Gadget",
+  "description": "Business management app for Mindore Gadget Repair Shop",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f0f4f8",
+  "theme_color": "#1D9E75",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "finance", "productivity"],
+  "lang": "fil",
+  "dir": "ltr"
+}
